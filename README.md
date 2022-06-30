@@ -6,11 +6,23 @@
 ###### [Clique nas perguntas para abrir as respostas]
 
 <details><summary><b>1. Para que serve o método Scrum?<b></summary>
-<p style="text-align: justify">&emsp;Scrum serve para estabelecer um método ágil de desenvolvimento no projeto, auxiliando na criação e entrega do produto para o cliente de forma cíclica, apresentando partes do projeto no final de uma sprint.</p>
+<div align="justify">
+&emsp;Scrum serve para estabelecer um método ágil de desenvolvimento no projeto, auxiliando na criação e entrega do produto para o cliente de forma cíclica, apresentando partes do projeto no final de uma sprint.
+</div>
 </details>
 
 <details><summary><b>2. Como funciona o método Scrum?<b></summary>
-
+<div align="justify">
+        &emsp;O Scrum trabalha de forma cíclica, que são chamadas de sprints, passando por 4 etapas: Sprint Planning, Desenvolvimento, Sprint Review e Sprint Retrospective. Os envolvidos são stakeholders, Product Owner, Scrum Master e Desenvolvedores. <br>
+        &emsp;O Product Owner fica responsável pela parte de negócios, tendo maior contato com o cliente e representando ele durante algumas etapas.<br>
+        &emsp;A função do Scrum Master é oferecer suporte ao trabalhar com essa metodologia e auxiliar nas dificuldades dos desenvolvedores.<br>
+        &emsp;Os desenvolvedores são todos que irão fazer parte deste projeto.<br>
+        &emsp;O PO fica responsável por conversar com o cliente e elaborar a Product Backlog, uma lista com as funcionalidades do projeto ordenadas por prioridade (maior valor agregado para o produto), onde será apresentada no início da Sprint na etapa da Sprint Planning, essa lista passa por um processo de refinação pelo PO antes de ir para esta reunião, transformando as funcionalidades em user stories.<br>
+        &emsp;Durante à reunião, a equipe é reunida e juntos definem a Sprint Backlog, uma lista com as funcionalidades a serem desenvolvidas durante a etapa de desenvolvimento. Nessa lista é transformada as users stories em tarefas, as quais serão atribuídas para os desenvolvedores.<br>
+        &emsp;Na etapa de desenvolvimento é realizado reuniões diárias (daily meeting) para acompanhar o progresso de cada dev e auxiliar caso haja problemas ou impedimentos.<br>
+        &emsp;Após a etapa de desenvolvimento, ocorre a Sprint Review, uma reunião com todos os envolvidos do projeto (stakeholders e scrum team) para apresentação das funcionalidades que foram adicionadas ao projeto durante o sprint, nessa etapa temos o feedback do cliente, possíveis sugestões de mudanças ou novas ideias.<br>
+        &emsp;Ao passar pelo Review temos a Sprint Retrospective onde somente a equipe se junta para discutir como foi aquela sprint, com o objetivo de identificar dificuldades e eloborar novas estratégias para o próximo sprint e assim se encerra este.<br>
+        &emsp;O Scrum ocorre de forma cíclica então após a finalização da Retrospective no próximo dia útil é feito a Planning decidindo quais serão as outras tarefas a serem feitas durante essa nova sprint e assim se continua o ciclo até o fim do projeto.</div>
 </details>
 
 <details><summary><b>3. O que é Git?<b></summary>
