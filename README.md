@@ -69,7 +69,12 @@
 </details>
 
 <details><summary><b>10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?<b></summary>
-
+    <div align="justify">
+        &emsp;Atulizar repositório local:<br>
+        &emsp;&emsp;- git pull<br>
+        &emsp;Fazer merge:<br>
+        &emsp;&emsp;- git merge branchName
+    </div>
 </details>
 
 <details><summary><b>11. Qual a diferença entre git e github?<b></summary>
