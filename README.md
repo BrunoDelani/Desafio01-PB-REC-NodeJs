@@ -3,68 +3,68 @@
 ##### Primeiro desafio do Programa de Bolsas REC@nodejs da compass.uol!
 
 ### Perguntas: 
-# [Clique nas perguntas para abrir as respostas]
+###### [Clique nas perguntas para abrir as respostas]
 
-<details><summary><b>1. Para que serve o método Scrum?<b>
+<details><summary><b>1. Para que serve o método Scrum?<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>2. Como funciona o método Scrum?<b>
+<details><summary><b>2. Como funciona o método Scrum?<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>3. O que é Git?<b>
+<details><summary><b>3. O que é Git?<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>4. O que é um scrum Product Owner?<b>
+<details><summary><b>4. O que é um scrum Product Owner?<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>5. Qual o comando para criação de um novo repositório no Git?<b>
+<details><summary><b>5. Qual o comando para criação de um novo repositório no Git?<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>6. O que é o HTTP?<b>
+<details><summary><b>6. O que é o HTTP?<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>7. Como funciona o HTTP?<b>
+<details><summary><b>7. Como funciona o HTTP?<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>8. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?<b>
+<details><summary><b>8. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>9. O que é a Branch master e para que serve?<b>
+<details><summary><b>9. O que é a Branch master e para que serve?<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?<b>
+<details><summary><b>10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>11. Qual a diferença entre git e github?<b>
+<details><summary><b>11. Qual a diferença entre git e github?<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>12. Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles.<b>
+<details><summary><b>12. Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles.<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>13. Qual o status code que pode ser usado na criação de um novo usuário?<b>
+<details><summary><b>13. Qual o status code que pode ser usado na criação de um novo usuário?<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>14. Quais são os três status code que modem ser utilizados para realizar o delete?<b>
+<details><summary><b>14. Quais são os três status code que modem ser utilizados para realizar o delete?<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>15. Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)!<b>
+<details><summary><b>15. Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)!<b></summary>
 
-</summary>
+</details>
 
-<details><summary><b>16. Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:<b>
+<details><summary><b>16. Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:<b></summary>
 
-</summary>
+</details>
