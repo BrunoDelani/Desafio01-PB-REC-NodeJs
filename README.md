@@ -115,5 +115,9 @@
 </details>
 
 <details><summary><b>16. Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:<b></summary>
-
+    <div align="justify">
+        &emsp;Estou gostando muito por estar participando desta experiência e além de poder melhorar meus conhecimentos, estou aprendendo na prática.<br>
+        &emsp;Muito bom conhecer pessoas novas, conversei com outros bolsistas e sinto que todos estamos anciosos, mas com grandes expectativas para alavancar nosso conhecimento e aos poucos vou me sentindo mais a vontade.<br>
+        &emsp;Para o próximo sprint sinto que com essa equipe irei aprender e me desenvolver bastante!
+    </div>
 </details>
