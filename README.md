@@ -78,7 +78,9 @@
 </details>
 
 <details><summary><b>11. Qual a diferença entre git e github?<b></summary>
-
+    <div align="justify">
+        &emsp;O git é um sistema de versionamento de código, enquanto o github é uma plataforma pronta para receber, armazenar e compartilhar no formato deste sistema.
+    </div>
 </details>
 
 <details><summary><b>12. Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles.<b></summary>
