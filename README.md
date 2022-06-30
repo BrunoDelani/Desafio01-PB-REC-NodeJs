@@ -45,7 +45,9 @@
 </details>
 
 <details><summary><b>6. O que é o HTTP?<b></summary>
-
+    <div align="justify">
+        &emsp;HTTP é um protocolo para estabelecer regras de comunicação do cliente com o servidor através de métodos de conexão. (GET, POST, PUT, PATCH, DELETE)
+    </div>
 </details>
 
 <details><summary><b>7. Como funciona o HTTP?<b></summary>
