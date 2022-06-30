@@ -105,7 +105,13 @@
 </details>
 
 <details><summary><b>15. Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)!<b></summary>
-
+    <div align="justify">
+        &emsp;1XX: Resposta informativa<br>
+        &emsp;2XX: Resposta de sucesso<br>
+        &emsp;3XX: Resposta de redirecionamento<br>
+        &emsp;4XX: Resposta de erro do cliente<br>
+        &emsp;5XX: Resposta de erro do servidor
+    </div>
 </details>
 
 <details><summary><b>16. Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:<b></summary>
