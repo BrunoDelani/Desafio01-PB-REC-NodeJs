@@ -39,7 +39,9 @@
 </details>
 
 <details><summary><b>5. Qual o comando para criação de um novo repositório no Git?<b></summary>
-
+    <div align="justify">
+        &emsp;git init
+    </div>
 </details>
 
 <details><summary><b>6. O que é o HTTP?<b></summary>
