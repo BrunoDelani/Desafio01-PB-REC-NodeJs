@@ -1,4 +1,4 @@
-# Desafio01-PB-RECNodeJs
+# Desafio01-PB-REC@NodeJs
 
 ##### Primeiro desafio do Programa de Bolsas REC@nodejs da compass.uol!
 
@@ -32,7 +32,10 @@
 </details>
 
 <details><summary><b>4. O que é um scrum Product Owner?<b></summary>
-
+    <div align="justify">
+        &emsp;Scrum Product Owner é responsável pela visão de negócio dentro do projeto, tem como suas funções extrair do cliente informações para a construção da Product Backlist e apresenta-las aos desenvolvedores de forma mais refinada. É a principal comunicação com o cliente, sempre ovindo novas ideias e alterações.<br>
+        &emsp;É desejável que o PO mantenha a Produckt Backlist sempre atualizada e que participe de todas as etapas da sprint.
+    </div>
 </details>
 
 <details><summary><b>5. Qual o comando para criação de um novo repositório no Git?<b></summary>
