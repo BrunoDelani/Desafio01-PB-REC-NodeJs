@@ -51,7 +51,9 @@
 </details>
 
 <details><summary><b>7. Como funciona o HTTP?<b></summary>
-
+    <div align="justify">
+        &emsp;O HTTP trabalha com requisição e resposta, declarando como o cliente e servidor devem enviar e receber dados. Como exemplo, no HTTP temos diversos métodos, e se o servidor não estiver preparado para trafegar dados em uma URL com o método especificado terá uma resposta de erro como o 404 NOT FOUND por não encontrar a página.
+    </div>
 </details>
 
 <details><summary><b>8. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?<b></summary>
