@@ -84,7 +84,10 @@
 </details>
 
 <details><summary><b>12. Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles.<b></summary>
-
+    <div align="justify">
+        &emsp;PUT: Utilizado para atualizar uma entidade por completo.<br>
+        &emsp;PATCH: Utilizado para atualizar parte desta entidade.
+    </div>
 </details>
 
 <details><summary><b>13. Qual o status code que pode ser usado na criação de um novo usuário?<b></summary>
