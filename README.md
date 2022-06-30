@@ -97,7 +97,11 @@
 </details>
 
 <details><summary><b>14. Quais são os três status code que modem ser utilizados para realizar o delete?<b></summary>
-
+    <div align="justify">
+        &emsp;200: OK<br>
+        &emsp;202: Aceito<br>
+        &emsp;204: Solicitação bem sucedida
+    </div>
 </details>
 
 <details><summary><b>15. Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)!<b></summary>
