@@ -6,7 +6,7 @@
 ###### [Clique nas perguntas para abrir as respostas]
 
 <details><summary><b>1. Para que serve o método Scrum?<b></summary>
-
+<p style="text-align: justify">&emsp;Scrum serve para estabelecer um método ágil de desenvolvimento no projeto, auxiliando na criação e entrega do produto para o cliente de forma cíclica, apresentando partes do projeto no final de uma sprint.</p>
 </details>
 
 <details><summary><b>2. Como funciona o método Scrum?<b></summary>
