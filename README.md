@@ -26,7 +26,9 @@
 </details>
 
 <details><summary><b>3. O que é Git?<b></summary>
-
+    <div align="justify">
+        &emsp;Git é um sistema para controle de versionamento de códigos, sendo recomendado utilizar para desenvolvimento de softwares por sua grande perspicácia em salvar pontos do desenvolvimento, podendo recuperar dados de versões anteriores se necessário.
+    </div>
 </details>
 
 <details><summary><b>4. O que é um scrum Product Owner?<b></summary>
