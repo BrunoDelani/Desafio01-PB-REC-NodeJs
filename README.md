@@ -57,7 +57,9 @@
 </details>
 
 <details><summary><b>8. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?<b></summary>
-
+    <div align="justify">
+        &emsp;git add index.html
+    </div>
 </details>
 
 <details><summary><b>9. O que é a Branch master e para que serve?<b></summary>
