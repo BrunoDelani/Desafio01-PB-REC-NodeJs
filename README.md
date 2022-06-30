@@ -91,7 +91,9 @@
 </details>
 
 <details><summary><b>13. Qual o status code que pode ser usado na criação de um novo usuário?<b></summary>
-
+    <div align="justify">
+        &emsp;201: Criado
+    </div>
 </details>
 
 <details><summary><b>14. Quais são os três status code que modem ser utilizados para realizar o delete?<b></summary>
