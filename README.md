@@ -63,7 +63,9 @@
 </details>
 
 <details><summary><b>9. O que é a Branch master e para que serve?<b></summary>
-
+    <div align="justify">
+        &emsp;A master serve como a branch principal do nosso projeto, podemos criar outras branchs através dela para desenvolvimento, mas sempre deixamos o código "funcional" nela.
+    </div>
 </details>
 
 <details><summary><b>10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?<b></summary>
